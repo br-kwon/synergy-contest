@@ -1,0 +1,16 @@
+{
+  "name": "synergy-contest",
+  "version": "1.0.0",
+  "description": "synergy contest",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "author": "PowWow",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
